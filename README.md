@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58cf40&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58cf40&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+Nome+é+John+Endrew+Jeronimo+Albino;Tenho+28+anos;Sou+Brasileiro,+MG,+Belo+Horizonte;+Estudo+Analise+desenvolvimento+de+sistema,+Pitagoras;4ºSemestre;Bem+Vindos!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58cf40&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+Nome+é+John+Endrew+Jeronimo+Albino;Tenho+30+anos;Sou+Brasileiro,+MG,+Belo+Horizonte;+Estudo+Analise+desenvolvimento+de+sistema,+Pitagoras;4ºSemestre;Bem+Vindos!+:%29)](https://git.io/typing-svg)
 <p></p>
 
 <p align="center">
