@@ -18,6 +18,7 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![PHP Laravel](https://img.shields.io/badge/-PHP/Laravel-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
 ![Html](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=html&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 
 
 ### Ferramentas:
