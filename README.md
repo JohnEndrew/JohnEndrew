@@ -42,10 +42,10 @@
 ![PHP Laravel](https://img.shields.io/badge/-PHP/Laravel-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
 
-  <div align="center">
+ /* <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JohnEndrew}/count.svg" /></p> 
-<br></div>
+<br></div> */
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4092cf&height=120&section=footer"/>****
