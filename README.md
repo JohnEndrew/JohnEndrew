@@ -44,7 +44,7 @@
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" color='4092cf' src="https://profile-counter.glitch.me/{JohnEndrew}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JohnEndrew}/count.svg" /></p> 
 <br></div>
   
 
