@@ -1,19 +1,72 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=John%20Endrew%20Jeronimo%20Albino&fontSize=35&fontColor=ffffff"/>
 
-# 👨‍💻 John Endrew Jeronimo Albino
+👋 Olá, eu sou John Endrew Jeronimo Albino
+🚀 Desenvolvedor Full Stack | Laravel | PHP | MySQL
 
-💻 **Software Developer | Backend & Web Systems**
+Sou apaixonado por tecnologia e desenvolvimento de sistemas que resolvem problemas reais.
 
-Desenvolvedor focado em **desenvolvimento de sistemas web e backend**, com experiência em construção de **aplicações completas utilizando Laravel, bancos de dados relacionais e arquitetura de sistemas**.
+Atualmente desenvolvo soluções web utilizando Laravel, PHP, MySQL, Bootstrap, HTML, CSS e JavaScript, criando aplicações modernas, escaláveis e com foco na experiência do usuário.
 
-Atualmente cursando **Análise e Desenvolvimento de Sistemas (4º semestre)** e trabalhando no desenvolvimento de **sistemas de gestão, controle financeiro e plataformas web escaláveis**.
+Tenho experiência no desenvolvimento de sistemas de gestão, automação de processos e plataformas para o segmento de Proteção Veicular.
 
-Meu foco é evoluir constantemente em:
+💼 Sobre mim:
 
-* Arquitetura de software
-* APIs modernas
-* Backend escalável
-* Sistemas empresariais
+💻 Analista de Sistemas e Suporte Tecnico Pleno.
+🎓 Análise e Desenvolvimento de Sistemas
+💻 Desenvolvedor Full Stack
+🚀 Especialista em Laravel
+🗄️ Banco de Dados MySQL
+🎨 Front-end responsivo com Bootstrap
+⚙️ APIs REST
+📊 Sistemas Administrativos
+🔒 Desenvolvimento de sistemas Multi-Tenant
+☁️ Deploy em VPS e servidores Linux
+
+🛠 Tecnologias:
+
+Back-end
+Laravel
+PHP
+REST API
+Composer
+Banco de Dados
+MySQL
+SQL
+Front-end
+HTML5
+CSS3
+Bootstrap
+JavaScript
+Ferramentas
+Git
+GitHub
+VS Code
+XAMPP
+Linux
+Postman
+
+🚀 Projeto em Destaque:
+Gestto
+
+Sistema completo para gestão de eventos destinado ao segmento de Proteção Veicular.
+
+Principais funcionalidades
+Cadastro de Associados
+Cadastro de Veículos
+Gestão de Eventos
+Controle Financeiro
+Contas a Receber
+Contas a Pagar
+Dashboard Gerencial
+Multiempresa (Multi Tenant)
+Importação de Planilhas
+Controle de Usuários
+SMTP por Empresa
+Histórico de Eventos
+Upload de Documentos
+Relatórios
+Controle de Status
+Sistema Responsivo
 
 ---
 
@@ -47,7 +100,6 @@ Meu foco é evoluir constantemente em:
 ![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge\&logo=visualstudiocode)
 ![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge\&logo=linux)
 ![Windows](https://img.shields.io/badge/Windows-111?style=for-the-badge\&logo=windows)
-
 ---
 
 # 📊 GitHub Analytics
@@ -59,7 +111,6 @@ Meu foco é evoluir constantemente em:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnEndrew&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
 ---
 
 # 🔥 GitHub Streak
@@ -78,13 +129,9 @@ Meu foco é evoluir constantemente em:
 
 ---
 
-# 📚 Atualmente Estudando
+🎯 Objetivo
 
-* Node.js
-* Arquitetura de APIs REST
-* Boas práticas em Laravel
-* Estruturas de dados
-* Java
+Desenvolver soluções modernas, performáticas e intuitivas, sempre buscando aprimorar minhas habilidades técnicas e contribuir para projetos que gerem impacto positivo.
 
 ---
 
